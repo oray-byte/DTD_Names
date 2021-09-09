@@ -1,0 +1,138 @@
+<b>Name:</b> Weston David Schlemeyer
+<b>Hometown:</b> Columbia
+<b>Major:</b> Mech E
+<b>School year:</b> Sophomore
+<b>Pledge class:</b> Gamma Beta
+
+<b>Name:</b> Lucas Delaine Gerke
+<b>Hometown:</b> Boonsville
+<b>Major:</b> Civil E
+<b>School year:</b> Senior
+<b>Pledge class:</b> Beta Chi
+
+<b>Name:</b> Braeden Christopher Drag
+<b>Hometown:</b> St. Johseph
+<b>Major:</b> Civil E
+<b>School year:</b> Sophomore
+<b>Pledge class:</b> Gamma Gamma
+
+<b>Name:</b> Caleb Michael Williamson
+<b>Hometown:</b> Peoria, Illinois
+<b>Major:</b> Comp Sci
+<b>School year:</b> Sophomore
+<b>Pledge class:</b> Gamma Gamma
+
+<b>Name:</b> Anthony Richard Modica
+<b>Hometown:</b> St. Louis
+<b>Major:</b> Comp Sci
+<b>School year:</b> Senior
+<b>Pledge class:</b> Beta Omega
+
+<b>Name:</b> Gunnar Mandel Rutherford
+<b>Hometown:</b> Savannah
+<b>Major:</b> Mech E
+<b>School year:</b> Sophomore
+<b>Pledge class:</b> Gamma Beta
+
+<b>Name:</b> Thaysen Leejames Feldbaumer
+<b>Hometown:</b> Winona
+<b>Major:</b> Comp Sci
+<b>School year:</b> Sophomore
+<b>Pledge class:</b> Gamma Beta
+
+<b>Name:</b> Tucker Adam McLean
+<b>Hometown:</b> Hannibal
+<b>Major:</b> Arc E
+<b>School year:</b> Junior
+<b>Pledge class:</b> Gamma Alpha
+
+<b>Name:</b> Eric Anthony Franklin
+<b>Hometown:</b> Boonville
+<b>Major:</b> Nuc E
+<b>School year:</b> Freshman
+<b>Pledge class:</b> Gamma Delta
+
+<b>Name:</b> Austin Matteson
+<b>Hometown:</b> Pilot Grove
+<b>Major:</b> Comp Sci
+<b>School year:</b> Freshman
+<b>Pledge class:</b> Gamma Delta
+
+<b>Name:</b> Dalton Lee Bealer
+<b>Hometown:</b> Boonville
+<b>Major:</b> Comp Sci
+<b>School year:</b> Freshman
+<b>Pledge class:</b> Gamma Delta
+
+<b>Name:</b> Andrew Ryan Hoag
+<b>Hometown:</b> Branson
+<b>Major:</b> Pet Eng
+<b>School year:</b> Sophomore
+<b>Pledge class:</b> Gamma Beta
+
+<b>Name:</b> Gabriel Alexander Riddle
+<b>Hometown:</b> Cameron
+<b>Major:</b> Physics
+<b>School year:</b> Freshman
+<b>Pledge class:</b> Gamma Delta
+
+<b>Name:</b> Tristian James Copeland
+<b>Hometown:</b> Kansas City
+<b>Major:</b> Mech E
+<b>School year:</b> Sophomore
+<b>Pledge class:</b> Gamma Beta
+
+<b>Name:</b> Evan Michael Nickels
+<b>Hometown:</b> Dickson
+<b>Major:</b> Civil E
+<b>School year:</b> Junior
+<b>Pledge class:</b> Gamma Alpha
+
+<b>Name:</b> Colby Alexander Rhine
+<b>Hometown:</b> St. Louis
+<b>Major:</b> Aerospace
+<b>School year:</b> Junior
+<b>Pledge class:</b> Gamma Alpha
+
+<b>Name:</b> Colin Vincent Harris
+<b>Hometown:</b> St. Louis
+<b>Major:</b> Mech E
+<b>School year:</b> Freshman
+<b>Pledge class:</b> Gamma Delta
+
+<b>Name:</b> Carter John Litteken
+<b>Hometown:</b> Wildwood
+<b>Major:</b> Comp Sci
+<b>School year:</b> Freshman
+<b>Pledge class:</b> Gamma Delta
+
+<b>Name:</b> Gavin Tyler Earwood
+<b>Hometown:</b> Summersville
+<b>Major:</b> Aerospace
+<b>School year:</b> Freshman
+<b>Pledge class:</b> Gamma Delta
+
+<b>Name:</b> Anthony Michael Perez
+<b>Hometown:</b> Festus
+<b>Major:</b> Mech E
+<b>School year:</b> Junior
+<b>Pledge class:</b> Gamma Alpha
+
+<b>Name:</b> Owen Miller-Fast
+<b>Hometown:</b> La Plata
+<b>Major:</b> Comp Sci
+<b>School year:</b> Sophomore
+<b>Pledge class:</b> Gamme Delta
+
+<b>Name:</b> Benjamin Kaleb Finn
+<b>Hometown:</b> Peoria, Illinois
+<b>Major:</b> Nuc E
+<b>School year:</b> Freshman
+<b>Pledge class:</b> Gamma Delta
+
+<b>Name:</b> Sean Michael Carney
+<b>Hometown:</b> Springfield
+<b>Major:</b> Mech E
+<b>School year:</b> Junior
+<b>Pledge class:</b> Gamma Delta
+
